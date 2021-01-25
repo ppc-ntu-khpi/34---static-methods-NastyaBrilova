@@ -2,7 +2,7 @@ package domain;
 /**
  * Клас шифрує і розшифровує строку шифром Цезаря.
  * 
- * @author COLDBEATZ
+ * @author NastyaBrilova
  */
 public class Exercise 
 {
